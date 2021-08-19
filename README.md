@@ -1,2 +1,2 @@
 # freelance-web
-Layout básico para un desarrollador freelancer
+Layout básico para un desarrollador freelancer realizado con flexbox
